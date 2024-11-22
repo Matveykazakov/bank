@@ -1,0 +1,5 @@
+log.dirs=/tmp/kafka-logs
+zookeeper.connect=zookeeper:2181
+broker.id=1
+listeners=PLAINTEXT://:9092
+advertised.listeners=PLAINTEXT://localhost:9092

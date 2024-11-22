@@ -1,0 +1,4 @@
+flask
+kafka-python
+redis
+flask_cors
