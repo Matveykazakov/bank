@@ -25,7 +25,8 @@
    docker-compose up --build
 
 ## Пример отправки транзакции
-![image](https://github.com/user-attachments/assets/f3f37f01-cd81-4494-90bb-c85f56a2fc69)
+![image](https://github.com/user-attachments/assets/34a653d8-6aa6-4d49-b5f5-78b5d35e8da7)
 ## Результат:
-![image](https://github.com/user-attachments/assets/4107c3fc-e52b-4ba4-b91d-3d6d0d364ba3)
-![image](https://github.com/user-attachments/assets/3088171b-a844-4c4e-beee-5ff1d305ce4f)
+![image](https://github.com/user-attachments/assets/404e3372-34d3-4ee0-b61b-3041f74991bb)
+![image](https://github.com/user-attachments/assets/2a0f6825-e6dc-45f6-abe4-948e1e1cd17b)
+
